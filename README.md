@@ -7,7 +7,7 @@ Simulador de manejo en unity nissan Leaf 2018
     
         conda env create -f entorno.yml
           
-3. El simulador funciona usando la version 5.5.1 de Unity
+3. El simulador funciona usando la version [5.5.1](https://unity3d.com/es/get-unity/download/archive) de Unity 
 
 Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAutonomous** y darle play:
 
