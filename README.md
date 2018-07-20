@@ -17,4 +17,4 @@ Simulador de manejo en unity nissan Leaf 2018
           
    -Correr el script:
    
-          $$ python drive.py model.h5 $$
+          $ python drive.py model.h5 
