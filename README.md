@@ -20,3 +20,5 @@ Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAuton
    -Correr el script:
    
         python drive.py model.h5 
+        
+5. Disfruta!
