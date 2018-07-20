@@ -22,3 +22,5 @@ Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAuton
         python drive.py model.h5 
         
 5. Disfruta!
+
+![GitHub Logo]("C:\Users\lobo_\Pictures\car.png")
