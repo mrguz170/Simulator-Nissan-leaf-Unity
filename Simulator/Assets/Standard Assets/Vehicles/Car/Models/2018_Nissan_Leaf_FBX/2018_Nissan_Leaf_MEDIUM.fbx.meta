@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: cb503340f8034c5449e6a5746ac5a650
+timeCreated: 1532042471
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Body_MeshPart0
+    100006: Body_MeshPart1
+    100008: Body_MeshPart2
+    100010: BrakeFrLeft
+    100012: BrakeFrRight
+    100014: BrakeRearLeft
+    100016: BrakeRearRight
+    100018: Dashboard
+    100020: Dashboard_MeshPart0
+    100022: Dashboard_MeshPart1
+    100024: Dashboard_MeshPart2
+    100026: DoorFrLeft
+    100028: DoorFrRight
+    100030: DoorRearLeft
+    100032: DoorRearRight
+    100034: HeadLights
+    100036: Interior
+    100038: Interior_MeshPart0
+    100040: Interior_MeshPart1
+    100042: Interior_MeshPart2
+    100044: Seats
+    100046: Seats_MeshPart0
+    100048: Seats_MeshPart1
+    100050: SteeringWheel
+    100052: TailLights
+    100054: Undercarriage
+    100056: WheelFrLeft
+    100058: WheelFrRight
+    100060: WheelRearLeft
+    100062: WheelRearRight
+    400000: //RootNode
+    400002: Body
+    400004: Body_MeshPart0
+    400006: Body_MeshPart1
+    400008: Body_MeshPart2
+    400010: BrakeFrLeft
+    400012: BrakeFrRight
+    400014: BrakeRearLeft
+    400016: BrakeRearRight
+    400018: Dashboard
+    400020: Dashboard_MeshPart0
+    400022: Dashboard_MeshPart1
+    400024: Dashboard_MeshPart2
+    400026: DoorFrLeft
+    400028: DoorFrRight
+    400030: DoorRearLeft
+    400032: DoorRearRight
+    400034: HeadLights
+    400036: Interior
+    400038: Interior_MeshPart0
+    400040: Interior_MeshPart1
+    400042: Interior_MeshPart2
+    400044: Seats
+    400046: Seats_MeshPart0
+    400048: Seats_MeshPart1
+    400050: SteeringWheel
+    400052: TailLights
+    400054: Undercarriage
+    400056: WheelFrLeft
+    400058: WheelFrRight
+    400060: WheelRearLeft
+    400062: WheelRearRight
+    2300000: Body_MeshPart0
+    2300002: Body_MeshPart1
+    2300004: Body_MeshPart2
+    2300006: BrakeFrLeft
+    2300008: BrakeFrRight
+    2300010: BrakeRearLeft
+    2300012: BrakeRearRight
+    2300014: Dashboard_MeshPart0
+    2300016: Dashboard_MeshPart1
+    2300018: Dashboard_MeshPart2
+    2300020: DoorFrLeft
+    2300022: DoorFrRight
+    2300024: DoorRearLeft
+    2300026: DoorRearRight
+    2300028: HeadLights
+    2300030: Interior_MeshPart0
+    2300032: Interior_MeshPart1
+    2300034: Interior_MeshPart2
+    2300036: Seats_MeshPart0
+    2300038: Seats_MeshPart1
+    2300040: SteeringWheel
+    2300042: TailLights
+    2300044: Undercarriage
+    2300046: WheelFrLeft
+    2300048: WheelFrRight
+    2300050: WheelRearLeft
+    2300052: WheelRearRight
+    3300000: Body_MeshPart0
+    3300002: Body_MeshPart1
+    3300004: Body_MeshPart2
+    3300006: BrakeFrLeft
+    3300008: BrakeFrRight
+    3300010: BrakeRearLeft
+    3300012: BrakeRearRight
+    3300014: Dashboard_MeshPart0
+    3300016: Dashboard_MeshPart1
+    3300018: Dashboard_MeshPart2
+    3300020: DoorFrLeft
+    3300022: DoorFrRight
+    3300024: DoorRearLeft
+    3300026: DoorRearRight
+    3300028: HeadLights
+    3300030: Interior_MeshPart0
+    3300032: Interior_MeshPart1
+    3300034: Interior_MeshPart2
+    3300036: Seats_MeshPart0
+    3300038: Seats_MeshPart1
+    3300040: SteeringWheel
+    3300042: TailLights
+    3300044: Undercarriage
+    3300046: WheelFrLeft
+    3300048: WheelFrRight
+    3300050: WheelRearLeft
+    3300052: WheelRearRight
+    4300000: Body_MeshPart0
+    4300002: Body_MeshPart1
+    4300004: Body_MeshPart2
+    4300006: DoorFrLeft
+    4300008: DoorFrRight
+    4300010: DoorRearLeft
+    4300012: DoorRearRight
+    4300014: HeadLights
+    4300016: Interior_MeshPart0
+    4300018: Interior_MeshPart1
+    4300020: Interior_MeshPart2
+    4300022: SteeringWheel
+    4300024: Dashboard_MeshPart0
+    4300026: Dashboard_MeshPart1
+    4300028: Dashboard_MeshPart2
+    4300030: Seats_MeshPart0
+    4300032: Seats_MeshPart1
+    4300034: TailLights
+    4300036: Undercarriage
+    4300038: WheelFrLeft
+    4300040: BrakeFrLeft
+    4300042: WheelFrRight
+    4300044: BrakeFrRight
+    4300046: WheelRearLeft
+    4300048: BrakeRearLeft
+    4300050: WheelRearRight
+    4300052: BrakeRearRight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

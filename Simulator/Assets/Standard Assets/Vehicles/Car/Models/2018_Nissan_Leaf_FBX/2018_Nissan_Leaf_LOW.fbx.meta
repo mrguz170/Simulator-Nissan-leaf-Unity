@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 4c9082876eb84454aacfd5bce21ae14b
+timeCreated: 1532042257
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: BrakeFrLeft
+    100006: BrakeFrRight
+    100008: BrakeRearLeft
+    100010: BrakeRearRight
+    100012: Dashboard
+    100014: DoorFrLeft
+    100016: DoorFrRight
+    100018: DoorRearLeft
+    100020: DoorRearRight
+    100022: HeadLights
+    100024: Interior
+    100026: Seats
+    100028: SteeringWheel
+    100030: TailLights
+    100032: Undercarriage
+    100034: WheelFrLeft
+    100036: WheelFrRight
+    100038: WheelRearLeft
+    100040: WheelRearRight
+    400000: //RootNode
+    400002: Body
+    400004: BrakeFrLeft
+    400006: BrakeFrRight
+    400008: BrakeRearLeft
+    400010: BrakeRearRight
+    400012: Dashboard
+    400014: DoorFrLeft
+    400016: DoorFrRight
+    400018: DoorRearLeft
+    400020: DoorRearRight
+    400022: HeadLights
+    400024: Interior
+    400026: Seats
+    400028: SteeringWheel
+    400030: TailLights
+    400032: Undercarriage
+    400034: WheelFrLeft
+    400036: WheelFrRight
+    400038: WheelRearLeft
+    400040: WheelRearRight
+    2300000: Body
+    2300002: BrakeFrLeft
+    2300004: BrakeFrRight
+    2300006: BrakeRearLeft
+    2300008: BrakeRearRight
+    2300010: Dashboard
+    2300012: DoorFrLeft
+    2300014: DoorFrRight
+    2300016: DoorRearLeft
+    2300018: DoorRearRight
+    2300020: HeadLights
+    2300022: Interior
+    2300024: Seats
+    2300026: SteeringWheel
+    2300028: TailLights
+    2300030: Undercarriage
+    2300032: WheelFrLeft
+    2300034: WheelFrRight
+    2300036: WheelRearLeft
+    2300038: WheelRearRight
+    3300000: Body
+    3300002: BrakeFrLeft
+    3300004: BrakeFrRight
+    3300006: BrakeRearLeft
+    3300008: BrakeRearRight
+    3300010: Dashboard
+    3300012: DoorFrLeft
+    3300014: DoorFrRight
+    3300016: DoorRearLeft
+    3300018: DoorRearRight
+    3300020: HeadLights
+    3300022: Interior
+    3300024: Seats
+    3300026: SteeringWheel
+    3300028: TailLights
+    3300030: Undercarriage
+    3300032: WheelFrLeft
+    3300034: WheelFrRight
+    3300036: WheelRearLeft
+    3300038: WheelRearRight
+    4300000: Body
+    4300002: DoorFrLeft
+    4300004: DoorFrRight
+    4300006: DoorRearLeft
+    4300008: DoorRearRight
+    4300010: HeadLights
+    4300012: Interior
+    4300014: SteeringWheel
+    4300016: Dashboard
+    4300018: Seats
+    4300020: TailLights
+    4300022: Undercarriage
+    4300024: WheelFrLeft
+    4300026: BrakeFrLeft
+    4300028: WheelFrRight
+    4300030: BrakeFrRight
+    4300032: WheelRearLeft
+    4300034: BrakeRearLeft
+    4300036: WheelRearRight
+    4300038: BrakeRearRight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
