@@ -23,4 +23,4 @@ Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAuton
         
 5. Disfruta!
 
-![GitHub Logo]("C:\Users\lobo_\Pictures\car.png")
+![]("C:\Users\lobo_\Pictures\car.png")
