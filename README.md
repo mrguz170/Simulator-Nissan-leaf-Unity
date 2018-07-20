@@ -23,4 +23,4 @@ Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAuton
         
 5. Disfruta!
 
-![alt text]("https://media.githubusercontent.com/media/mrguz170/Simulator-Nissan-leaf-Unity/master/Simulator/car.png")
+![alt text](https://media.githubusercontent.com/media/mrguz170/Simulator-Nissan-leaf-Unity/master/Simulator/car.png)
