@@ -8,9 +8,11 @@ Simulador de manejo en unity nissan Leaf 2018
         conda env create -f entorno.yml
           
 3. El simulador funciona usando la version 5.5.1 de Unity
-   Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAutonomous** y darle play:
+
+Ir a \Simulator\Assets\1_SelfDrivingCar\Scenes, abrir la escena **LakeTrackAutonomous** y darle play:
 
 4. Correr el modelo pre-entrenado:
+
    -Activar entorno usando conda, run: 
    
         conda activate car-simulator
